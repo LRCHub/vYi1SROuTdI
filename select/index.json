@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "糸電話",
+  "base_artist": "natori",
+  "createdAt": "2025-12-03T07:24:16.140607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "糸電話",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/01_糸電話_なとり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "糸電話",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_糸電話_なとり.txt"
+    }
+  ]
+}
